@@ -1,0 +1,77 @@
+@font-face{
+	font-family: ea;
+	src: url('../../fontes/EaDesignerRegular.ttf');
+}
+
+.ea {
+	font-family: ea;
+}
+
+.scrollspySite {
+  position: relative;
+  overflow: auto;
+  height: 355px; 
+}
+
+body{
+	background-image: linear-gradient(to right, rgba(27, 247, 228, 0.288), rgb(200, 227, 238), rgba(0, 4, 255, 0.281)) !important;
+	width:100% !important; 
+}
+
+.slid{
+	width: 100%;
+	margin: auto;
+	height: 500px;
+}
+/*# sourceMappingURL=style.css.map */
+@media (min-width: 700px){
+	body {
+		width: 100% !important;
+	}
+}
+
+.menu {
+	border: 0.5px solid rgba(227, 229, 238, 0.897);
+	border-radius: 5%;
+	-webkit-box-shadow: 0px 0px 80px -35px rgba(70, 38, 38, 0.75);
+	-moz-box-shadow: 0px 0px 80px -35px rgba(70, 38, 38,0.75);
+	box-shadow: 0px 0px 80px -35px rgba(70, 38, 38,0.75);
+}
+
+.pl-0 {
+	padding-right: 0px !important;
+}
+
+.ml-x {
+	margin-left: 2.5% !important;
+	margin-top: 2.5% !important;
+}
+
+.bkcyan {
+	background-color: rgba(227, 229, 238, 0.897) !important;
+	-webkit-box-shadow: 0px 0px 80px -35px rgb(70, 38, 38,0.75);
+	-moz-box-shadow: 0px 0px 80px -35px rgba(70, 38, 38,0.75);
+	box-shadow: 0px 0px 80px -35px rgba(70, 38, 38,0.75);
+	border: 0.5px solid rgba(154, 160, 197, 0.897);
+	border-radius: 2%;
+}
+
+.bkcyan div {
+	background-color: rgba(227, 229, 238, 0.897) !important;
+}
+
+.displayblock {
+	display: block !important;
+}
+
+.p-0 {
+	padding: 0 !important;
+}
+
+.menuright {
+	background-color: rgba(214, 217, 233, 0.897);
+}
+
+.bkcyan div {
+
+}
